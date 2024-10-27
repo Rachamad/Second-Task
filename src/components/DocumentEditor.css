@@ -1,0 +1,30 @@
+/* src/components/DocumentEditor.css */
+
+.document-editor {
+    margin: 20px;
+  }
+  
+  .editor {
+    border: 1px solid #ccc;
+    min-height: 400px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  .toolbar {
+    margin: 10px 0;
+  }
+  
+  button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+  }
+  
+  button:hover {
+    background-color: #e0e0e0;
+  }
+  
